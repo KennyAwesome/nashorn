@@ -1,0 +1,45 @@
+Project title: Nas-Horn
+Artists: Kaname ‘Kenny’ Muroya & Nas
+Type: Interactive Installation
+
+The project name is a play on words with the German word for rhino “Nashorn” and the name of the co-creator Nas. 
+It aims to enhance human capabilities in the spirit of transhumanism and transgenderism.
+An open-source modular robotic inflatable prosthetic phallus is to be attached to the user’s genitals, thus looking like a strapon.
+On the „inside,“ there is an transducer which acts as vibration motors that get triggered, 
+if the capacitive touch sensor of the prosthesis is activated.
+The behavior is programmed using Processing and Open Sound Control which could enable orchestration of a synchronized collective orgasm,
+if mass manufactured, which would be interconnected over WiFi.
+
+The reason why a transducer is used, is because the phenomenon of the sensation of touch,
+whether an surface is smooth or rough is ultimately just vibration on the skin.
+Since such a transducer can create a wide frequency range quickly for which it is used commonly in resonance speakers,
+the idea was that it might give the user the sensation of penetration of the prostesis, if it was equipped with the right sensors.
+
+The prostesis is equipped with 6 DOF motion sensor and 4 capacitive touch sensors,
+which was connected to an ESP32-S2, which would be connected bidirectionally over Wifi to an Raspberry Pi Zero 2W.
+The transducer is connected to a amplification circuit which connects to the Raspberry Pi over Bluetooth to play the generated sound files.
+One of the many concepts was let the Raspberry Pi act as an OSC node running a code in Processing,
+which would evaluate the sensors and activate the vibration motor at the tip.
+
+The original idea for this project was brainstormed together in 2020, when Kenny and Nas met,
+to create an inflatable strapon, which would inflate if touched in a specific pattern.
+The feature of the inflatablity was accomplished through a hollow multilayer silicon cast,
+integrating the sensors in the hull.
+It has a pneumatic quickfitting, which is connected to bidirectional pressure sensitive air pump, capable of inflating and deflating.
+
+At the point of the exhibition, the basic hardware, electronics and a test program was working,
+all the further processing is still in progress.
+  
+The reason why the prostheis is purple is because for Kenny purple is the color of art,
+for whom life purpose it is to redefine the concept of art within his artistic freedom.
+Art is whatever keeps humanity alive voluntarily,
+"The Ultimate Art" is to help someone skillfully.
+The creation of such a prosthetic device is one of the many skills of Kenny,
+but if Nas wishes so, the color of further iterations can be customized to his specifications.
+
+Here is a link further explaining "The Ultimate Art":
+https://github.com/KennyAwesome/OnTheWayTo.Pro/blob/main/TheUltimateArt.txt
+
+Here is a link for current state of Nas-Horn:
+https://hackaday.io/project/183047-nas-horn
+
