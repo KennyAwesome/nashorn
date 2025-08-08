@@ -1,5 +1,5 @@
 Project title: Nas-Horn
-Artists: Kaname ‘Kenny’ Muroya & Nas
+Artists: Nas & An anonymous artist, who might be on the way to Pro.
 Type: Interactive Installation
 
 The project name is a play on words with the German word for rhino “Nashorn” and the name of the co-creator Nas. 
@@ -33,12 +33,12 @@ all the further processing is still in progress.
 The reason why the prostheis is purple is because for Kenny purple is the color of art,
 for whom life purpose it is to redefine the concept of art within his artistic freedom.
 Art is whatever keeps humanity alive voluntarily,
-"The Ultimate Art" is to help someone skillfully.
+The "ultimate" art is to help someone skillfully.
 The creation of such a prosthetic device is one of the many skills of Kenny,
 but if Nas wishes so, the color of further iterations can be customized to his specifications.
 
-Here is a link further explaining "The Ultimate Art":
-https://github.com/KennyAwesome/OnTheWayTo.Pro/blob/main/TheUltimateArt.txt
+Here is a link further explaining the "ultimate" art, in chapter 42 "ultimate":
+https://github.com/VoiceOfHumanityFoundation/42/releases/latest/
 
 Here is a link for current state of Nas-Horn:
 https://hackaday.io/project/183047-nas-horn
