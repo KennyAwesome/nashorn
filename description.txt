@@ -21,7 +21,7 @@ The transducer is connected to a amplification circuit which connects to the Ras
 One of the many concepts was let the Raspberry Pi act as an OSC node running a code in Processing,
 which would evaluate the sensors and activate the vibration motor at the tip.
 
-The original idea for this project was brainstormed together in 2020, when Kenny and Nas met,
+The original idea for this project was brainstormed together in 2020, when the anonymous artist and Nas met,
 to create an inflatable strapon, which would inflate if touched in a specific pattern.
 The feature of the inflatablity was accomplished through a hollow multilayer silicon cast,
 integrating the sensors in the hull.
@@ -30,11 +30,11 @@ It has a pneumatic quickfitting, which is connected to bidirectional pressure se
 At the point of the exhibition, the basic hardware, electronics and a test program was working,
 all the further processing is still in progress.
   
-The reason why the prostheis is purple is because for Kenny purple is the color of art,
+The reason why the prostheis is purple is because for the anonymous artist purple is the color of art,
 for whom life purpose it is to redefine the concept of art within his artistic freedom.
 Art is whatever keeps humanity alive voluntarily,
 The "ultimate" art is to help someone skillfully.
-The creation of such a prosthetic device is one of the many skills of Kenny,
+The creation of such a prosthetic device is one of the many skills of the anonymous artist,
 but if Nas wishes so, the color of further iterations can be customized to his specifications.
 
 Here is a link further explaining the "ultimate" art, in chapter 42 "ultimate":
